@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @JonRaw89
-- 👀 I’m interested in Software Development and Data Anayltics.
-- 🌱 I’m currently learning Java Full Stack Development, Msc Computer Science & Data Analytics
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
